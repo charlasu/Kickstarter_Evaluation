@@ -10,5 +10,5 @@
 **Limitations of this dataset:**  
 This particular chart only reviews projects by outcome against all months and all categories. In other words, the evaluation is too general to offer better conclusions. Perhaps by looking at all projects in 2012 versus 2016 we’d see a more clear pattern, especially if broken down by category. For example, maybe in 2012 most of the successful projects had to do with food, while in 2016 we might see most of them had to do with music.
 
-**Further analysis via recommended tables/graphs:**
+**Further analysis via recommended tables/graphs:**  
 It’s recommended to dive further into the original data set and do multiple charts of the same data. Bar graphs and scatter plots, in addition to this line graph may reveal more insight that can be shared with those trying to create a successful Kickstarter campaign.
